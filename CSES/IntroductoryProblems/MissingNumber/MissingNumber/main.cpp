@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 
-void Missing_Number(int n)
+void MissingNumber(int n)
 {
     int s = 0;
     std::cout << std::setw(15) << std::left << "Input Element: ";
@@ -20,5 +20,5 @@ int main()
     int n;
     std::cout << std::setw(15) << std::left << "Input line: ";
     std::cin >> n;
-    Missing_Number(n);
+    MissingNumber(n);
 }
