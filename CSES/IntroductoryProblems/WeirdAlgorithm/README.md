@@ -17,9 +17,7 @@ The only input line contains an integer n.
 Print a line that contains all values of n during the algorithm.
 
 # Example
-
 Input:    3
-
 Output:   3, 10, 5, 16, 8, 4, 2, 1
 
 
