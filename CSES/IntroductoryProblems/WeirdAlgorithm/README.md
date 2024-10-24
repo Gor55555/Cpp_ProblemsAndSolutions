@@ -10,14 +10,15 @@ The algorithm repeats this, until n is one. For example, the sequence for n = 3 
 
 Your task is to simulate the execution of the algorithm for a given value of n.
 
-# Input
+### Input
 The only input line contains an integer n.
 
-# Output
+### Output
 Print a line that contains all values of n during the algorithm.
 
-# Example
-Input:    3
+### Example
+ Input:   3
+
 Output:   3, 10, 5, 16, 8, 4, 2, 1
 
 
